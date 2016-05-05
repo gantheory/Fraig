@@ -1,4 +1,4 @@
-Fraig: A way to simplify circuits.
+##Fraig: A way to simplify circuits.
 
 src/   
   This directory contains source code.
@@ -17,5 +17,5 @@ report.pdf
   important parts of FRAIG.
 
 fraig/  
-##This directory contains all the other files I used at the time I did this
+  This directory contains all the other files I used at the time I did this
   project..
